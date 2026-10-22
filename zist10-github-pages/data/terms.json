@@ -1,0 +1,302 @@
+[
+  {
+    "approved": "تاجی",
+    "previous": "کرونری",
+    "latin": "Coronary",
+    "chapter": 4
+  },
+  {
+    "approved": "انبساط",
+    "previous": "دیاستول",
+    "latin": "Diastole",
+    "chapter": 4
+  },
+  {
+    "approved": "انقباض",
+    "previous": "سیستول",
+    "latin": "Systole",
+    "chapter": 4
+  },
+  {
+    "approved": "برچاکنای",
+    "previous": "اپی‌گلوت",
+    "latin": "Epiglottis",
+    "chapter": 2
+  },
+  {
+    "approved": "برون‌شامه",
+    "previous": "اپی‌کارد",
+    "latin": "Epicardium",
+    "chapter": 4
+  },
+  {
+    "approved": "برون‌رانی",
+    "previous": "اگزوسیتوز",
+    "latin": "Exocytosis",
+    "chapter": 1
+  },
+  {
+    "approved": "بنداره",
+    "previous": "اسفنکتر",
+    "latin": "Sphincter",
+    "chapter": 2
+  },
+  {
+    "approved": "پاداکسنده",
+    "previous": "آنتی‌اکسیدان",
+    "latin": "Antioxidant",
+    "chapter": 6
+  },
+  {
+    "approved": "پژواک‌نگاری",
+    "previous": "اکوکاردیوگرافی",
+    "latin": "Echocardiography",
+    "chapter": 4
+  },
+  {
+    "approved": "پیراپوست",
+    "previous": "پریدرم",
+    "latin": "Periderm",
+    "chapter": 6
+  },
+  {
+    "approved": "پیراشامه",
+    "previous": "پریکارد",
+    "latin": "Pericardium",
+    "chapter": 4
+  },
+  {
+    "approved": "خوناب",
+    "previous": "پلاسما",
+    "latin": "Plasma",
+    "chapter": 4
+  },
+  {
+    "approved": "خون‌بهر",
+    "previous": "هماتوکریت",
+    "latin": "Hematocrit",
+    "chapter": 4
+  },
+  {
+    "approved": "درشت‌خوار",
+    "previous": "ماکروفاژ",
+    "latin": "Macrophage",
+    "chapter": 3
+  },
+  {
+    "approved": "درون‌بینی",
+    "previous": "آندوسکوپی",
+    "latin": "Endoscopy",
+    "chapter": 2
+  },
+  {
+    "approved": "درون‌بری",
+    "previous": "آندوسیتوز",
+    "latin": "Endocytosis",
+    "chapter": 1
+  },
+  {
+    "approved": "درون‌پوست",
+    "previous": "آندودرم",
+    "latin": "Endodermis",
+    "chapter": 7
+  },
+  {
+    "approved": "دم‌سنج",
+    "previous": "اسپیرومتر",
+    "latin": "Spirometry",
+    "chapter": 3
+  },
+  {
+    "approved": "دم‌نگاره",
+    "previous": "اسپیروگرام",
+    "latin": "Spirogram",
+    "chapter": 3
+  },
+  {
+    "approved": "دنا",
+    "previous": "دی‌ان‌ای",
+    "latin": "DNA",
+    "chapter": 1
+  },
+  {
+    "approved": "درون‌شامه",
+    "previous": "آندوکارد",
+    "latin": "Endocardium",
+    "chapter": 4
+  },
+  {
+    "approved": "دیسه",
+    "previous": "پلاست",
+    "latin": "Plastid",
+    "chapter": 6
+  },
+  {
+    "approved": "راکیزه",
+    "previous": "میتوکندری",
+    "latin": "Mitochondrion",
+    "chapter": 1
+  },
+  {
+    "approved": "رگ‌نگاری",
+    "previous": "آنژیوگرافی",
+    "latin": "Angiography",
+    "chapter": 4
+  },
+  {
+    "approved": "رنگ‌دیسه",
+    "previous": "کروموپلاست",
+    "latin": "Chromoplast",
+    "chapter": 6
+  },
+  {
+    "approved": "زیستیار",
+    "previous": "پروبیوتیک",
+    "latin": "Probiotic",
+    "chapter": 2
+  },
+  {
+    "approved": "سبزینه",
+    "previous": "کلروفیل",
+    "latin": "Chlorophyll",
+    "chapter": 6
+  },
+  {
+    "approved": "عامل سطح‌فعال",
+    "previous": "سورفاکتانت",
+    "latin": "Surfactant",
+    "chapter": 3
+  },
+  {
+    "approved": "کافنده‌تن",
+    "previous": "لیزوزوم",
+    "latin": "Lysosome",
+    "chapter": 1
+  },
+  {
+    "approved": "کلافک",
+    "previous": "گلومرول",
+    "latin": "Glomerulus",
+    "chapter": 5
+  },
+  {
+    "approved": "کولون‌بینی",
+    "previous": "کولونوسکوپی",
+    "latin": "Colonoscopy",
+    "chapter": 2
+  },
+  {
+    "approved": "گرده",
+    "previous": "پلاکت",
+    "latin": "Platelet",
+    "chapter": 4
+  },
+  {
+    "approved": "گردیزه",
+    "previous": "نفرون",
+    "latin": "Nephron",
+    "chapter": 5
+  },
+  {
+    "approved": "گیاخاک",
+    "previous": "هوموس",
+    "latin": "Humus",
+    "chapter": 7
+  },
+  {
+    "approved": "گویچه",
+    "previous": "گلبول",
+    "latin": "Globule",
+    "chapter": 4
+  },
+  {
+    "approved": "لَپ",
+    "previous": "لوب",
+    "latin": "Lobe",
+    "chapter": 5
+  },
+  {
+    "approved": "ماهیچه قلب",
+    "previous": "میوکارد",
+    "latin": "Myocardium",
+    "chapter": 4
+  },
+  {
+    "approved": "میان‌بند",
+    "previous": "دیافراگم",
+    "latin": "Diaphragm",
+    "chapter": 3
+  },
+  {
+    "approved": "نشادیسه",
+    "previous": "آمیلوپلاست",
+    "latin": "Amyloplast",
+    "chapter": 6
+  },
+  {
+    "approved": "هم‌ایستایی",
+    "previous": "هومئوستازی",
+    "latin": "Homeostasis",
+    "chapter": 1
+  },
+  {
+    "approved": "یاخته عصبی",
+    "previous": "نورون",
+    "latin": "Neuron",
+    "chapter": 1
+  },
+  {
+    "approved": "رناتن",
+    "previous": "ریبوزوم",
+    "latin": "Ribosome",
+    "chapter": 1
+  },
+  {
+    "approved": "میانک",
+    "previous": "سانتریول",
+    "latin": "Centriole",
+    "chapter": 1
+  },
+  {
+    "approved": "ریزکیسه",
+    "previous": "وزیکول",
+    "latin": "Vesicle",
+    "chapter": 1
+  },
+  {
+    "approved": "نرم‌آکند",
+    "previous": "پارانشیم",
+    "latin": "Parenchyma",
+    "chapter": 6
+  },
+  {
+    "approved": "چسب‌آکند",
+    "previous": "کلانشیم",
+    "latin": "Collenchyma",
+    "chapter": 6
+  },
+  {
+    "approved": "سخت‌آکند",
+    "previous": "اسکلرانشیم",
+    "latin": "Sclerenchyma",
+    "chapter": 6
+  },
+  {
+    "approved": "پارزای",
+    "previous": "مریستم",
+    "latin": "Meristem",
+    "chapter": 6
+  },
+  {
+    "approved": "لایه‌زای",
+    "previous": "کامبیوم",
+    "latin": "Cambium",
+    "chapter": 6
+  },
+  {
+    "approved": "پوستک",
+    "previous": "کوتیکول",
+    "latin": "Cuticle",
+    "chapter": 6
+  }
+]
